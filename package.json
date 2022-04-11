@@ -1,5 +1,5 @@
 {
-  "name": "holy-bible",
+  "name": "npmbible",
   "version": "1.2.0",
   "description": "A small library providing access to the Bible",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bricejlin/holy-bible.git"
+    "url": "https://github.com/MadisonRWozniak/npmbible.git"
   },
   "keywords": [
     "bible",
@@ -20,12 +20,12 @@
     "scripture",
     "word"
   ],
-  "author": "Brice Lin <bricejlin@gmail.com>",
+  "author": "Madison R. Wozniak <madisonwozniak@protonmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bricejlin/holy-bible/issues"
+    "url": "https://github.com/madisonrwozniak/npmbible/issues"
   },
-  "homepage": "https://github.com/bricejlin/holy-bible",
+  "homepage": "https://github.com/madisonrwozniak/npmbible",
   "dependencies": {
     "bible-passage-reference-parser": "^1.0.0",
     "es6-promise": "^2.0.1",
