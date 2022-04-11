@@ -1,19 +1,19 @@
-# Holy Bible [![Build Status](https://travis-ci.org/bricejlin/holy-bible.svg?branch=master)](https://travis-ci.org/bricejlin/holy-bible) [![npm version](https://badge.fury.io/js/holy-bible.svg)](http://badge.fury.io/js/holy-bible)
+# NPMBible 
 
 
-  Easy-to-use JS library for retrieving bible scripture.
+  Easy-to-use JS library for retrieving bible scripture. Cloned from [[@bricejlin\holy-bible](https://github.com/bricejlin/holy-bible)] but I forgot to fork it and instead just pushed it as a new repo. My bad !!
 
 
 ## Installation
 
   ```bash
-  $ npm install holy-bible --save
+  $ npm install npmbible --save
   ```
 
 ## Usage
 
   ```js
-  var bible = require('holy-bible');
+  var bible = require('npmbible');
 
   bible.get('John 15:13', 'ASV') // also supports 2-letter abbrev (ie: Jn 15:13)
     .then(function (res) {
@@ -48,6 +48,7 @@
 
   - ASV
   - KJV
+  - NRSV
 
 ## Tests
 
@@ -58,4 +59,4 @@
 
 ## License
 
-  [MIT](https://github.com/bricejlin/holy-bible/blob/master/LICENSE)
+  [MIT](https://github.com/MadisonRWozniak/npmbible/blob/master/LICENSE)
