@@ -1,4 +1,4 @@
-# NPMBible 
+# NPMBible [![npm version](https://badge.fury.io/js/npmbible.svg)](https://badge.fury.io/js/npmbible)
 
 
   Easy-to-use JS library for retrieving bible scripture. Cloned from [@bricejlin\holy-bible](https://github.com/bricejlin/holy-bible) but I forgot to fork it and instead just pushed it as a new repo. My bad !!
