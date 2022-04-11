@@ -12,7 +12,8 @@ var VERSE_INDEX = require('./indexes/verse-index-map');
 
 var BIBLES = {
   'asv': require('./bibles/asv'),
-  'kjv': require('./bibles/kjv')
+  'kjv': require('./bibles/kjv'),
+  'nrsv': requre('./bibles/nrsv')
 };
 
 module.exports = (function () {
